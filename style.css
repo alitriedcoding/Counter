@@ -1,0 +1,38 @@
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+h1{
+    text-align: center;
+}
+p{
+    text-align: center;
+    font-size: 40px;
+    font-weight: 700;
+}
+.incress{
+    padding: 1px 10px;
+    background-color: darkgreen;
+    color: white;
+    font-size: 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.reset{
+    padding: 1px 10px;
+    background-color: darkgreen;
+    color: white;
+    font-size: 20px;
+    border-radius: 5px;
+    cursor: pointer;   
+}
+.dicress{
+    padding: 1px 10px;
+    background-color: red;
+    color: white;
+    font-size: 20px;
+    border-radius: 5px;
+    cursor: pointer;   
+}
